@@ -1,0 +1,20 @@
+{
+  "name": "github-demo-template",
+  "version": "1.0.0",
+  "description": "This repository is an example demo to write github actions for testing their repositories, building docker images after testing and scanning those docker images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/sagittarius-Astar/github-demo-template.git",
+  "author": "Vijay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sagittarius-Astar/github-demo-template/issues"
+  },
+  "homepage": "https://github.com/sagittarius-Astar/github-demo-template#readme",
+  "private": true,
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
